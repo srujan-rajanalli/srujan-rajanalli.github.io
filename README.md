@@ -59,7 +59,5 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <input type="submit" name="submit" />
 
 </form>
-    
-    </main>
   </body>
 </html>
