@@ -1,6 +1,14 @@
 <html lang="en-US">
   <head>
     
+    <script>
+      window.dataLayer = window.dataLayer || [];
+    </script>
+    <a href="#" onclick="dataLayer.push({
+     'Country' : 'India',
+      'State' : 'Karnataka'
+});">Book details</a>
+    
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -30,6 +38,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--  ----------------------------------------------------------------------  -->
 <!--  NOTE: Please add the following <FORM> element to your page.             -->
 <!--  ----------------------------------------------------------------------  -->
+    
+
 
 <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
 
